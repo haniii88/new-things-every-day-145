@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 145 */
+/* New Things Every Day — Day 145 */
 /* Analyzes project issues and creates an issue tracking report */
 
 function dailyLog145() {
